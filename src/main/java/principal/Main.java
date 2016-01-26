@@ -7,6 +7,7 @@ public class Main {
 		
 		CiscoRest ciscoRest = new CiscoRest();
 		ciscoRest.llamarAlServicioRest();
+		int i = 1;
 	}
 
 }
